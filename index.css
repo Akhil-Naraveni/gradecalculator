@@ -1,0 +1,67 @@
+body{
+    text-align: center;
+    background-color: aquamarine;
+    padding: 5%;
+}
+.mainContainer{
+    background-color: rgb(200, 221, 239);
+    padding: 40px;
+    height: 70vh;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+   
+}
+.inputContainer{
+    width: 40vw;
+    margin: 8px;
+    text-align: center;
+    background-color: white;
+ 
+}
+.gradeContainer{
+    width: 25vw;
+    margin: 8px;
+    text-align: center;
+ 
+
+
+}
+.heading{
+    background-color: black;
+    color: white;
+    padding: 8px;
+    font-size: 24px;
+}
+.emptyField{
+    background-color: white;
+    height: 17vh;
+    margin: 0px;
+}
+.head{
+    margin-top: 0px;
+}
+input{
+    margin-left: 40px;
+    margin: 8px;
+    height: 20px;
+}
+label{
+    font-size: 20px;
+    font-weight: bold;
+}
+button{
+    background-color: rgb(101, 98, 98);
+    border: 1px solid grey;
+    height: 28px;
+    width: 140px;
+    font-weight: bold;
+    color: whitesmoke;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+p{
+    font-size: 20px;
+    font-weight: bold;
+}
